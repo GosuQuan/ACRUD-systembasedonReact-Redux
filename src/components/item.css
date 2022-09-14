@@ -1,0 +1,13 @@
+.userInfo{
+    
+    padding:20px;
+    border:1px solid;
+    border-radius:10px;
+    
+}
+
+.btn-set{
+    display:flex;
+    padding:20px;
+    justify-content:space-between
+}
